@@ -16,7 +16,6 @@ caching solution for any use case by changing minimal amount of existing
 code.
 * Language - C#
 Technologies - Hazelcast IMDG, Redis, .Net Core.
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
