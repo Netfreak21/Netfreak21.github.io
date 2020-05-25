@@ -18,18 +18,13 @@ code.
 Technologies - Hazelcast IMDG, Redis, .Net Core.
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Projects
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
+- [DeepStreak: Automating Games for Self-Driving Using Artificial
+Intelligence](https://ieeexplore.ieee.org/document/9032527)
+* Used Convolutional Neural Network with Data Augmentation techniques
+and Semantic Segmentation to automate Udacity Simulator for self-driving.
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
