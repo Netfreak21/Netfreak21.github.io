@@ -24,11 +24,19 @@ Technologies - Hazelcast IMDG, Redis, .Net Core.
 - [DeepStreak: Automating Games for Self-Driving Using Artificial
 Intelligence](https://ieeexplore.ieee.org/document/9032527)
 - [Garbage Management](https://github.com/Netfreak21/Hack36)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [TravelBuddy](https://github.com/Netfreak21/Travelbuddy-avishkar)
+- [iSPEAK](https://github.com/Netfreak21/iSPEAK)
 
 ---
 
+### Areas Of Interest
+* Machine Learning and Deep Learning
+* Android Development
+* Data Structures and Algorithms
+* Object Oriented Programming
 
+---
+
+### Languages
+C, C++, Java, C#
 
