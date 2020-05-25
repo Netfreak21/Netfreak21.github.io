@@ -4,7 +4,7 @@
 
 ### Experience 
 
-[Visa Inc.(May-July 2019)](https://www.visa.co.in)
+Intern at [Visa Inc.](https://www.visa.co.in)(May-July 2019)
 * Implemented a distributed caching mechanism by using Hazelcast IMDG
 and Redis to improve user experience by reducing the data retrieval time
 from the traditional SQL Database to almost five folds. Implemented
