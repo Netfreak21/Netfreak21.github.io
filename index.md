@@ -23,7 +23,7 @@ Technologies - Hazelcast IMDG, Redis, .Net Core.
 
 - [DeepStreak: Automating Games for Self-Driving Using Artificial
 Intelligence](https://ieeexplore.ieee.org/document/9032527)
-* Used Convolutional Neural Network with Data Augmentation techniques
+  Used Convolutional Neural Network with Data Augmentation techniques
 and Semantic Segmentation to automate Udacity Simulator for self-driving.
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
