@@ -4,7 +4,7 @@
 
 ### Experience 
 
-[Visa Inc.(May-July 2019)](/sample_page)
+[Visa Inc.(May-July 2019)](https://www.visa.co.in)
 * Implemented a distributed caching mechanism by using Hazelcast IMDG
 and Redis to improve user experience by reducing the data retrieval time
 from the traditional SQL Database to almost five folds. Implemented
@@ -14,7 +14,7 @@ insights into the memory consumption and cluster details.
 * Created a generic framework which will help the developers to try any
 caching solution for any use case by changing minimal amount of existing
 code.
-*Language - C#
+* Language - C#
 Technologies - Hazelcast IMDG, Redis, .Net Core.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
